@@ -1,6 +1,6 @@
 # power_nap
 
-A new Flutter project.
+This app/website will help to take quick nap after lunch to recharge yourself via alarming you and showing timer to others for not disturbing with custom messages options
 
 ## Getting Started
 
